@@ -65,7 +65,7 @@ body {
 }
 
 #container {
-  position: fixed; /* Establishes a new positioning context */
+  position: relative; /* Establishes a new positioning context */
   /* Other styles for your container */
   
 }
