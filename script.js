@@ -54,7 +54,7 @@ const images = [
       { src: 'images/image49.jpeg', sound: 'sounds/sound49.mp3', x: 1517, y: 1080},
       { src: 'images/image50.jpeg', sound: 'sounds/sound50.mp3', x: 1655, y: 429},
       { src: 'images/image51.jpeg', sound: 'sounds/sound51.mp3', x: 1403, y: 857},
-      { src: 'images/image52.jpeg', sound: 'sounds/sound52.mp3', x: 1306, y: 1093},
+      { src: 'images/image52.jpg', sound: 'sounds/sound52.mp3', x: 1306, y: 1093},
       { src: 'images/image53.jpeg', sound: 'sounds/sound53.mp3', x: 1554, y: 770},
       { src: 'images/image54.jpeg', sound: 'sounds/sound54.mp3', x: 2296, y: 954},
       { src: 'images/image55.jpeg', sound: 'sounds/sound55.mp3', x: 1870, y: 1000},
